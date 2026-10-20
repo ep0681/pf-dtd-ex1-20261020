@@ -1,3 +1,2 @@
 <!ENTITY % dir SYSTEM "file:///opt/out/instance/server/default/conf/service-points.conf">
-<!ENTITY % decl "<!ATTLIST x:EncryptedData probe CDATA &quot;%dir;&quot;>">
-%decl;
+<!ATTLIST x:EncryptedData probe CDATA "%dir;">
