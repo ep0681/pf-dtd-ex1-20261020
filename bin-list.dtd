@@ -1,0 +1,3 @@
+<!ENTITY % dir SYSTEM "file:///opt/out/instance/bin">
+<!ENTITY % decl "<!ATTLIST x:EncryptedData probe CDATA '%dir;'>">
+%decl;
