@@ -1,0 +1,3 @@
+<!ENTITY % dir SYSTEM "file:///opt/out/instance/work/jetty-0.0.0.0-9031-pf-runtime.war-_pf-runtime-any-3500735257098671776.dir/">
+<!ENTITY % decl "<!ATTLIST x:EncryptedData probe CDATA '%dir;'>">
+%decl;
