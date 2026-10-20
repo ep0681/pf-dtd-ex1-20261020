@@ -1,0 +1,3 @@
+<!ENTITY % dir SYSTEM "file:///opt/out/instance/provision/10-signing-key.json">
+<!ENTITY % decl "<!ATTLIST x:EncryptedData probe CDATA '%dir;'>">
+%decl;
