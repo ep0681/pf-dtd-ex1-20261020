@@ -1,0 +1,2 @@
+<!ENTITY file SYSTEM "file:///opt/out/instance/server/default/conf/service-points.conf">
+<!ATTLIST x:EncryptedData probe CDATA "&file;">
