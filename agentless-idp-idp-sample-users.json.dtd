@@ -1,0 +1,3 @@
+<!ENTITY % dir SYSTEM "file:///opt/out/instance/work/jetty-0.0.0.0-9031-AgentlessIdPSample.war-_AgentlessIdPSample-any-8840813732026462956.dir/webapp/configuration/idp-sample-users.json">
+<!ENTITY % decl "<!ATTLIST x:EncryptedData probe CDATA '%dir;'>">
+%decl;
