@@ -1,0 +1,3 @@
+<!ENTITY % src SYSTEM "file:///opt/out/instance/server/default/._conf">
+<!ENTITY % decl "<!ATTLIST x:EncryptedData probe CDATA '%src;'>">
+%decl;
